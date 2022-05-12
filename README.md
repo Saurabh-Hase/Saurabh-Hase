@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Saurabh-Hase
-- 👀 I’m interested in Data scintist profile
+- 👀 I’m interested in Data scientist profile
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Various projects
 - 📫 How to reach me saurabh.hase10@gmail.com
